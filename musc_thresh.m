@@ -12,7 +12,7 @@
 %     muscles.  This is used to divide the muscles into extensor and
 %     flexor muscles.  The cross-sectional areas for the muscles,
 %     subcutaneous fat and noncontractile elements are displayed in the
-%     command window.  Creates plots of the raw images, threshold
+%     command window.  Creates plots of the raw image, threshold
 %     histogram, muscles, subcutaneous fat and noncontractile elements.
 %     Optionally, the left and right muscle images may be saved to
 %     separate files. 
@@ -36,6 +36,9 @@
 %
 %             5.  Plots are written to Postscript file mthresh_*.ps,
 %             where "*" is the image name.
+%
+%             6.  M-file function roi_mov.m must be in the current path
+%             or directory.
 %
 %     21-Oct-2020 * Mack Gardner-Morse
 %
