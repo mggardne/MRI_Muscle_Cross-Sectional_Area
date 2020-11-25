@@ -10,3 +10,5 @@ The cross-sectional areas for the muscles, subcutaneous fat and noncontractile e
 Plots of the raw image, threshold histogram, muscles (extensors, flexors and total), subcutaneous fat and noncontractile elements are written to the Postscript file, mthresh_*.ps, where "*" is the image name.
 
 See Polygon_ROI_Guide.pdf for tips on creating the polygon ROI.  See musc_thresh.pdf for a guide to using the program.
+
+See comments in musc_thresh.m for more information.
